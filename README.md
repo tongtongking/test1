@@ -1,2 +1,4 @@
-This is just a test!
-After this will have more porjects!
+说明:
+本仓库目前有两个程序代码:
+1.用selenium登录企查查网站抓取全国公司注册信息;
+2.用requests模拟登录豆瓣网,并修改签名.
